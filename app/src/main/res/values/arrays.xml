@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hotelImgID">
+        <item>@drawable/lotte_hotel</item>
+        <item>@drawable/vinpearl</item>
+        <item>@drawable/saigon_hotel</item>
+        <item>@drawable/carravelle_hotel</item>
+        <item>@drawable/luxury_boutique</item>
+        <item>@drawable/berlin_hotel</item>
+        <item>@drawable/londener_hotel</item>
+        <item>@drawable/london_hotel2</item>
+    </string-array>
+
+    <string-array name="hotelName">
+        <item>@string/Lotte_hotel</item>
+        <item>@string/vinpearl</item>
+        <item>@string/saigon_hotel</item>
+        <item>@string/carravelle_hotel</item>
+        <item>@string/luxury_boutique</item>
+        <item>@string/berlin_hotel</item>
+        <item>@string/the_londener_hotel</item>
+        <item>@string/the_london_hotel_2</item>
+    </string-array>
+
+    <string-array name="hotelRating">
+        <item>4.5</item>
+        <item>4.4</item>
+        <item>4.4</item>
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.2</item>
+        <item>4.0</item>
+        <item>4.0</item>
+    </string-array>
+
+    <string-array name="hotelType">
+        <item>@string/five_star</item>
+        <item>@string/four_star</item>
+        <item>@string/five_star</item>
+        <item>@string/three_star</item>
+        <item>@string/four_star</item>
+        <item>@string/three_star</item>
+        <item>@string/three_star</item>
+        <item>@string/four_star</item>
+    </string-array>
+
+    <string-array name="hotelPhone">
+        <item>@string/Lotte_phone</item>
+        <item>@string/vinpearl_phone</item>
+        <item>@string/saigon_phone</item>
+        <item>@string/carravelle_phone</item>
+        <item>@string/luxury_boutique_phone</item>
+        <item>@string/berlin_hotel_phone</item>
+        <item>@string/londoner_hotel_phone</item>
+        <item>@string/london_hotel_2_phone</item>
+    </string-array>
+
+    <string-array name="hotelAddress">
+        <item>@string/Lotte_hotel_address</item>
+        <item>@string/vinpearl_address</item>
+        <item>@string/saigon_address</item>
+        <item>@string/carravelle_address</item>
+        <item>@string/luxury_address</item>
+        <item>@string/berlin_address</item>
+        <item>@string/londoner_address</item>
+        <item>@string/london_2_address</item>
+    </string-array>
+
+    <string-array name="placeImageId">
+        <item>@drawable/place1</item>
+        <item>@drawable/place2</item>
+        <item>@drawable/place3</item>
+        <item>@drawable/place4</item>
+        <item>@drawable/place5</item>
+        <item>@drawable/place6</item>
+        <item>@drawable/place7</item>
+        <item>@drawable/place8</item>
+    </string-array>
+
+    <string-array name="placeName">
+        <item>@string/place1</item>
+        <item>@string/place2</item>
+        <item>@string/place3</item>
+        <item>@string/place4</item>
+        <item>@string/place5</item>
+        <item>@string/place6</item>
+        <item>@string/place7</item>
+        <item>@string/place8</item>
+    </string-array>
+
+    <string-array name="placeRating">
+        <item>4.2</item>
+        <item>4.5</item>
+        <item>4.3</item>
+        <item>4.6</item>
+        <item>4.1</item>
+        <item>4.0</item>
+        <item>4.5</item>
+        <item>4.0</item>
+    </string-array>
+
+    <string-array name="placeType">
+        <item>@string/place1_type</item>
+        <item>@string/place2_type</item>
+        <item>@string/place3_type</item>
+        <item>@string/place4_type</item>
+        <item>@string/place5_type</item>
+        <item>@string/place6_type</item>
+        <item>@string/place7_type</item>
+        <item>@string/place8_type</item>
+    </string-array>
+
+    <string-array name="placePhone">
+        <item>@string/place1_phone</item>
+        <item>@string/place2_phone</item>
+        <item>@string/place3_phone</item>
+        <item>@string/place4_phone</item>
+        <item>@string/place5_phone</item>
+        <item>@string/place6_phone</item>
+        <item>@string/place7_phone</item>
+        <item>@string/place8_phone</item>
+    </string-array>
+
+    <string-array name="placeTime">
+        <item>@string/place1_time</item>
+        <item>@string/place2_time</item>
+        <item>@string/place3_time</item>
+        <item>@string/place4_time</item>
+        <item>@string/place5_time</item>
+        <item>@string/place6_time</item>
+        <item>@string/place7_time</item>
+        <item>@string/place8_time</item>
+    </string-array>
+
+    <string-array name="placeAddress">
+        <item>@string/place1_address</item>
+        <item>@string/place2_address</item>
+        <item>@string/place3_address</item>
+        <item>@string/place4_address</item>
+        <item>@string/place5_address</item>
+        <item>@string/place6_address</item>
+        <item>@string/place7_address</item>
+        <item>@string/palce8_address</item>
+    </string-array>
+
+    <string-array name="shopImgId">
+        <item>@drawable/parkson_hungvuong</item>
+        <item>@drawable/parkson_saigon</item>
+        <item>@drawable/bitexco</item>
+        <item>@drawable/cresent_mall</item>
+        <item>@drawable/aeon_binhtan</item>
+        <item>@drawable/tttm_saigon</item>
+    </string-array>
+
+    <string-array name="shopName">
+        <item>@string/parkson_hungvuong</item>
+        <item>@string/parkson_saigon</item>
+        <item>@string/bitexco</item>
+        <item>@string/cresent_mall</item>
+        <item>@string/aeon_binhtan</item>
+        <item>@string/tttm_saigon</item>
+    </string-array>
+
+    <string-array name="shopRating">
+        <item>3.8</item>
+        <item>3.9</item>
+        <item>3.8</item>
+        <item>4.6</item>
+        <item>4.1</item>
+        <item>4.1</item>
+    </string-array>
+
+    <string-array name="shopPlace">
+        <item>@string/parkson_hungvuong_addr</item>
+        <item>@string/parkson_saigon_addr</item>
+        <item>@string/bitexco_addr</item>
+        <item>@string/cresent_mall_addr</item>
+        <item>@string/aeon_binhtan_addr</item>
+        <item>@string/tttm_saigon_addr</item>
+    </string-array>
+
+    <string-array name="shopPhone">
+        <item>@string/parkson_hungvuong_phone</item>
+        <item>@string/parkson_saigon_phone</item>
+        <item>@string/bitexco_phone</item>
+        <item>@string/cresent_mall_phone</item>
+        <item>@string/aeon_binhtan_phone</item>
+        <item>@string/tttm_saigon_phone</item>
+    </string-array>
+
+    <string-array name="shopTime">
+        <item>@string/parkson_hungvuong_time</item>
+        <item>@string/parkson_saigon_time</item>
+        <item>@string/bitexco_time</item>
+        <item>@string/cresent_mall_time</item>
+        <item>@string/aeon_binhtan_time</item>
+        <item>@string/tttm_saigon_time</item>
+    </string-array>
+
+    <string-array name="shopAddress">
+        <item>@string/parkson_hungvuong_address</item>
+        <item>@string/parkson_saigon_address</item>
+        <item>@string/bitexco_address</item>
+        <item>@string/cresent_mall_address</item>
+        <item>@string/aeon_binhtan_address</item>
+        <item>@string/tttm_saigon_address</item>
+    </string-array>
+
+    <string-array name="restoImgId">
+        <item>@drawable/secret_garden</item>
+        <item>@drawable/chik</item>
+        <item>@drawable/cosmos</item>
+        <item>@drawable/queviet_res</item>
+        <item>@drawable/khau_cf</item>
+        <item>@drawable/sen_boss</item>
+    </string-array>
+
+    <string-array name="restoName">
+        <item>@string/secret_garden</item>
+        <item>@string/chik</item>
+        <item>@string/cosmos</item>
+        <item>@string/queviet_res</item>
+        <item>@string/khau_cf</item>
+        <item>@string/sen_boss</item>
+    </string-array>
+
+    <string-array name="restoRating">
+        <item>4.4</item>
+        <item>4.5</item>
+        <item>4.3</item>
+        <item>4.4</item>
+        <item>4.1</item>
+        <item>4.0</item>
+    </string-array>
+
+    <string-array name="restoType">
+        <item>@string/vietnamese</item>
+        <item>@string/cafe</item>
+        <item>@string/cafe</item>
+        <item>@string/vietnamese</item>
+        <item>@string/cafe</item>
+        <item>@string/cafe</item>
+    </string-array>
+
+    <string-array name="restoPhone">
+        <item>@string/secret_garden_phone</item>
+        <item>@string/chik_phone</item>
+        <item>@string/cosmos_phone</item>
+        <item>@string/queviet_res_phone</item>
+        <item>@string/khau_cf_phone</item>
+        <item>@string/sen_boss_phone</item>
+    </string-array>
+
+    <string-array name="restoTime">
+        <item>@string/secret_garden_time</item>
+        <item>@string/chik_time</item>
+        <item>@string/cosmos_time</item>
+        <item>@string/queviet_res_time</item>
+        <item>@string/khau_cf_time</item>
+        <item>@string/sen_boss_time</item>
+    </string-array>
+
+    <string-array name="restoAddress">
+        <item>@string/secret_garden_address</item>
+        <item>@string/chik_address</item>
+        <item>@string/cosmos_address</item>
+        <item>@string/queviet_res_address</item>
+        <item>@string/khau_cf_address</item>
+        <item>@string/sen_boss_address</item>
+    </string-array>
+
+    <string-array name="restoUrl">
+        <item>@string/secret_garden_url</item>
+        <item>@string/chik_url</item>
+        <item>@string/cosmos_url</item>
+        <item>@string/queviet_res_url</item>
+        <item>@string/khau_cf_url</item>
+        <item>@string/sen_boss_url</item>
+    </string-array>
+
+
+
+
+</resources>

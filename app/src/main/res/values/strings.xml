@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Huflit-tournament</string>
+    <string name="app_tag_text">lets roll</string>
+    <string name="no_desc_available">No description available</string>
+    <string name="hotels">Hotels</string>
+    <string name="places">Places</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shoppings">Shopping</string>
+    <string name="image">image</string>
+
+    <string name="Lotte_hotel">Lotte Saigon Hotel</string>
+    <string name="vinpearl">Vinpearl Landmark 81</string>
+    <string name="saigon_hotel">New world Saigon Hotel</string>
+    <string name="carravelle_hotel">Carravelle Hotel </string>
+    <string name="luxury_boutique">Peridot Grand Luxury Boutique Hotel</string>
+    <string name="berlin_hotel">Hotel Adlon Kempinski Berlin</string>
+    <string name="the_londener_hotel">The Londoner</string>
+    <string name="the_london_hotel_2">Pan Pacific London</string>
+
+    <string name="Lotte_phone">113</string>
+    <string name="vinpearl_phone">114</string>
+    <string name="saigon_phone">115</string>
+    <string name="carravelle_phone">911</string>
+    <string name="luxury_boutique_phone">024 3828 0099</string>
+    <string name="berlin_hotel_phone">070499 22744</string>
+    <string name="londoner_hotel_phone">0755 4033450</string>
+    <string name="london_hotel_2_phone">0755 4027800</string>
+
+    <string name="five_star">5-star hotel</string>
+    <string name="four_star">4-star hotel</string>
+    <string name="three_star">3-star hotel</string>
+
+    <string name="Lotte_hotel_address">2A - 4A Ton Duc Thang St, District 1, Thành phố Hồ Chí Minh 70000 Việt Nam</string>
+    <string name="vinpearl_address">720A Điện Biên Phủ Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh 700000 Việt Nam</string>
+    <string name="saigon_address">76 Le Lai Street, District 1, Thành phố Hồ Chí Minh 70000 Việt Nam</string>
+    <string name="carravelle_address">19-23 Công Trường Lam Sơn, Q.1, Thành phố Hồ Chí Minh 700000 Việt Nam</string>
+    <string name="luxury_address">33 Duong Thanh Street, Old Quarter Hanoi City Hanoi City, 33 Đường Thành, Cửa Đông, Hoàn Kiếm, Hà Nội</string>
+    <string name="berlin_address">Unter den Linden 77, Mitte, 10117 Berlin, Đức</string>
+    <string name="londoner_address">38 Leicester Square, Westminster Borough, London, WC2H 7DX, Vương Quốc Anh</string>
+    <string name="london_2_address">80 Houndsditch, City of London, London, EC3A 7AB, Vương Quốc Anh </string>
+
+    <string name="place1">Quảng trường Ba Đình – Lăng Bác</string>
+    <string name="place2">Cầu Rồng</string>
+    <string name="place3">Đèo Hải Vân</string>
+    <string name="place4">Suối Mơ</string>
+    <string name="place5">Làng nghề nước mắm Nam Ô</string>
+    <string name="place6">Điểm du lịch Phú Quốc</string>
+    <string name="place7">Địa điểm du lịch Nha Trang</string>
+    <string name="place8">Hội An</string>
+
+    <string name="place1_type">Nơi đây là trung tâm chính trị của Việt Nam</string>
+    <string name="place2_type">địa điểm du lịch mới ở Đà Nẵng hấp dẫn du khách</string>
+    <string name="place3_type">Giáp ranh giữa TP Đà Nẵng và tỉnh Thừa Thiên Huế</string>
+    <string name="place4_type">Nằm ngay dưới chân núi Bà Nà</string>
+    <string name="place5_type"> làng nghề nước mắm truyền thống</string>
+    <string name="place6_type">Phú Quốc được mệnh danh là thiên đường du lịch</string>
+    <string name="place7_type"> địa điểm du lịch Nha Trang để lại ấn tượng khó phai trong lòng du khách</string>
+    <string name="place8_type">Địa điểm du lịch hút khách bậc nhất Việt Nam</string>
+
+    <string name="place1_phone">0755 2674278</string>
+    <string name="place2_phone" />
+    <string name="place3_phone" />
+    <string name="place4_phone">0755 2661948</string>
+    <string name="place5_phone">0755 4027100</string>
+    <string name="place6_phone">0755 2499464</string>
+    <string name="place7_phone">0930396 33192</string>
+    <string name="place8_phone" />
+
+    <string name="place1_time">6:30am - 6:30pm</string>
+    <string name="place2_time">6:00am - 7:00pm</string>
+    <string name="place3_time">6:00am - 8:00pm</string>
+    <string name="place4_time">12:00pm - 7:00pm</string>
+    <string name="place5_time">9:00am - 10:00pm</string>
+    <string name="place6_time">10:00am - 7:00pm</string>
+    <string name="place7_time">6:00am - 8:00pm</string>
+    <string name="place8_time">8:00am - 6:00pm</string>
+
+    <string name="place1_address">Hùng Vương, Điện Biên, Ba Đình, Hà Nội 118708</string>
+    <string name="place2_address">366G+FGG, Phước Ninh, Hải Châu, Đà Nẵng 550000</string>
+    <string name="place3_address">Đèo Hải Vân, tt. Lăng Cô, Phú Lộc, Thừa Thiên Huế</string>
+    <string name="place4_address">09, ấp 6, xã Trà Cổ, huyện Tân Phú, tỉnh Đồng Nai.</string>
+    <string name="place5_address">Kiệt 884 Nguyễn Lương Bằng, Nam Ô 1, Liên Chiểu, Đà Nẵng</string>
+    <string name="place6_address">Phú Quốc, Phu Quoc, Kien Giang</string>
+    <string name="place7_address">Nha Trang, Khánh Hòa</string>
+    <string name="palce8_address">Hội An, Quảng Nam</string>
+
+    <string name="parkson_hungvuong">Parkson Hùng Vương</string>
+    <string name="parkson_saigon">Parkson Saigon Tourist</string>
+    <string name="bitexco">Bitexco Financial Tower</string>
+    <string name="cresent_mall">Crescent Mall</string>
+    <string name="aeon_binhtan">Aeon Mall Bình Tân</string>
+    <string name="tttm_saigon">TTTM Saigon Centre</string>
+
+    <string name="parkson_hungvuong_phone">0755 4034362</string>
+    <string name="parkson_saigon_phone">0755 2570363</string>
+    <string name="bitexco_phone">0755 6680021</string>
+    <string name="cresent_mall_phone">0222</string>
+    <string name="aeon_binhtan_phone">1800 270 0080</string>
+    <string name="tttm_saigon_phone">0755 4053555</string>"
+
+    <string name="parkson_hungvuong_time">09:00am - 10:00pm</string>
+    <string name="parkson_saigon_time">09:00am - 10:00pm</string>
+    <string name="bitexco_time">08:00am - 11:00pm</string>
+    <string name="cresent_mall_time">10:30am - 11:00pm</string>
+    <string name="aeon_binhtan_time">9:00am - 9:00pm</string>
+    <string name="tttm_saigon_time">11:00am - 11:55pm</string>
+
+    <string name="parkson_hungvuong_addr">Trung tâm thương mại cao cấp</string>
+    <string name="parkson_saigon_addr">Trung tâm mua sắm</string>
+    <string name="bitexco_addr">Trung tâm mua sắm nổi tiếng</string>
+    <string name="cresent_mall_addr">Trung tâm mua sắm ở Sài Gòn</string>
+    <string name="aeon_binhtan_addr">Trung tâm mua sắm khó bỏ lỡ</string>
+    <string name="tttm_saigon_addr">Trung tâm mua sắm sang chảnh</string>
+
+    <string name="parkson_hungvuong_address">126 đường Hồng Bàng, quận 5, Tp. Hồ Chí Minh</string>
+    <string name="parkson_saigon_address">35-45 Lê Thánh Tôn, phường Bến Nghé, quận 1, TPHCM</string>
+    <string name="bitexco_address">Tòa nhà tài chính Bitexco, phường Bến Nghé, quận 1, TPHCM</string>
+    <string name="cresent_mall_address">101 Tôn Dật Tiên, quận 7, Tp. Hồ Chí Minh</string>
+    <string name="aeon_binhtan_address">1 đường 17A, khu phố 11, quận Bình Tân, Tp. Hồ Chí Minh</string>
+    <string name="tttm_saigon_address">92 – 94 Nam Kỳ Khởi Nghĩa, P. Bến Nghé, Quận 1, TP. HCM</string>
+
+    <string name="secret_garden">Secret Garden</string>
+    <string name="chik">Chik.kafe</string>
+    <string name="cosmos">Cosmos coffee</string>
+    <string name="queviet_res">Quê Việt Restaurant</string>
+    <string name="khau_cf">Khâu.cà phê</string>
+    <string name="sen_boss">Sen Và Boss cafe</string>
+
+    <string name="indian">Indian</string>
+    <string name="vietnamese">Vietnamese</string>
+    <string name="italian">Italian</string>
+    <string name="cafe">Cafe</string>
+    <string name="chinese">Chinese</string>
+
+
+    <string name="secret_garden_phone">099930 91077</string>
+    <string name="chik_phone">0755 3096240</string>
+    <string name="cosmos_phone">0838 334 284</string>
+    <string name="queviet_res_phone">0755 6680166</string>
+    <string name="khau_cf_phone"> 0838 334 284</string>
+    <string name="sen_boss_phone">097130 20502</string>
+
+    <string name="secret_garden_time">12:00pm - 11:00pm</string>
+    <string name="chik_time">6:30am - 11:30pm</string>
+    <string name="cosmos_time">7:00am - 10:30pm</string>
+    <string name="queviet_res_time">12:00pm - 11:00pm</string>
+    <string name="khau_cf_time">07:45am - 11:00pm</string>
+    <string name="sen_boss_time">12:00pm - 11:00pm</string>
+
+    <string name="secret_garden_url">https://pasgo.vn/nha-hang/nha-hang-secret-garden-158bis-pasteur---huong-vi-dong-que-nam-bo-791</string>
+    <string name="chik_url">https://www.foody.vn/ho-chi-minh/chick-kafe-coffee-tea</string>
+    <string name="cosmos_url">https://cosmoscoffee.vn/</string>
+    <string name="queviet_res_url">https://www.foody.vn/ho-chi-minh/nha-hang-que-viet-vietnamese-cuisine-coffee/binh-luan-1505799</string>
+    <string name="khau_cf_url" />
+    <string name="sen_boss_url" />
+
+    <string name="secret_garden_address">158 Bis Pasteur, Quận 1</string>
+    <string name="chik_address">214 Đỗ Bá, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng</string>
+    <string name="cosmos_address">4 Nguyễn Du, Thạch Thang, Hải Châu, Đà Nẵng  </string>
+    <string name="queviet_res_address">5 Tôn Đức Thắng, Quận 1</string>
+    <string name="khau_cf_address">18 Kiệt K75 Lê Hồng Phong, Phước Ninh, Hải Châu, Đà Nẵng</string>
+    <string name="sen_boss_address">73 Yên Bái, Phước Ninh, Hải Châu, Đà Nẵng</string>
+
+    <string name="no_phone">Phone number not found.</string>
+    <string name="no_website">Website not found.</string>
+    <string name="no_location">Unable to locate on the maps.</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Montes nascetur ridiculus mus mauris. Venenatis tellus in metus vulputate eu scelerisque. Urna duis convallis tellus id interdum.\n\nSagittis id consectetur purus ut faucibus pulvinar elementum integer. Eu mi bibendum neque egestas congue quisque egestas diam. Facilisi cras fermentum odio eu feugiat pretium. Sed tempus urna et pharetra massa. Semper quis lectus nulla at volutpat diam ut venenatis tellus. Mauris pharetra et ultrices neque ornare aenean.</string>
+    <string name="about">About</string>
+    <string name="dot_separator">\u2022</string>
+
+</resources>
